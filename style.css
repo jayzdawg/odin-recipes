@@ -1,0 +1,67 @@
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+    color: brown;
+    background-color: yellowgreen;
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+
+}
+
+.ing{
+    color: greenyellow;
+    background-color: brown;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+
+
+}
+
+.ing.sub-title{
+    color: yellow;
+    background-color: red;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 23px;
+
+}
+
+.subtitle{
+    color: yellow;
+    background-color: red;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+.description{
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.stp{
+    color: greenyellow;
+    background-color: brown;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.list{
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 18px;
+
+}
